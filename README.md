@@ -5,11 +5,18 @@ Banking KPI Dashboard Analysis
 1. Introduction
 
 This project demonstrates a complete data analysis pipeline for banking data using Python in Jupyter Notebook. As a data analyst, this showcases end-to-end skills from data generation to PDF reporting, perfect for portfolio demonstration.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Objective: Analyze customer banking data to uncover actionable KPIs like account performance, customer segmentation, and branch efficiency through interactive visualizations.
+2. Objective: 
+
+Analyze customer banking data to uncover actionable KPIs like account performance,
+
+customer segmentation, 
+
+branch efficiency through interactive visualizations.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- 2. Business Benefits
+ 3. Business Benefits
 
 * Identify profitable segments - Average balance by account type/branch
 
@@ -22,7 +29,7 @@ Objective: Analyze customer banking data to uncover actionable KPIs like account
 * Stakeholder reporting - Professional PDF export with 5 KPI charts
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3. Technology Used
+4. Technology Used
 
 * Pandas, Numpy
 
