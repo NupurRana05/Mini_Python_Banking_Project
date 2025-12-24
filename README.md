@@ -4,7 +4,9 @@ Banking KPI Dashboard Analysis
 
 1. Introduction
 
-This project demonstrates a complete data analysis pipeline for banking data using Python in Jupyter Notebook. As a data analyst, this showcases end-to-end skills from data generation to PDF reporting, perfect for portfolio demonstration.
+This project demonstrates a complete data analysis pipeline for banking data using Python in Jupyter Notebook.
+
+As a data analyst, this showcases end-to-end skills from data generation to PDF reporting, perfect for portfolio demonstration.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2. Objective: 
@@ -12,8 +14,6 @@ This project demonstrates a complete data analysis pipeline for banking data usi
 Analyze customer banking data to uncover actionable KPIs like account performance,
 
 customer segmentation, 
-
-branch efficiency through interactive visualizations.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  3. Business Benefits
